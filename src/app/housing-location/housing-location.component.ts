@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
     <p>
-      housing-location works!
+      housing-location works! Yay
     </p>
   `,
   styleUrl: './housing-location.component.css'
